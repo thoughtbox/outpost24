@@ -1,0 +1,7 @@
+apikey=DEADBEEFCAFEBABEDEADBEEFCAFEBABEDEADBEEFCAFEBABEDEADBEEFCAFEBABE
+#hechost=https://splunk.example.com
+#hectoken=DEADBEEF-CAFE-BABE-DEAD-BEEFCAFEBABE
+url=https://hiab.example.com/opi/XMLAPI
+#socks=127.0.0.1:5050
+#http_proxy=http://proxy.example.com:3128
+timeout=15
